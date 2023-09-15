@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PRACTICO3/static/css/main.dd22ad5f.css",
-    "main.js": "/PRACTICO3/static/js/main.8129df14.js",
+    "main.js": "/PRACTICO3/static/js/main.54db8a50.js",
     "static/js/787.f9640105.chunk.js": "/PRACTICO3/static/js/787.f9640105.chunk.js",
     "static/media/game.png": "/PRACTICO3/static/media/game.a7b33d5a60e26a14ad63.png",
     "static/media/papel.png": "/PRACTICO3/static/media/papel.062362c5dfc52ae95ead.png",
@@ -9,11 +9,11 @@
     "static/media/piedra.png": "/PRACTICO3/static/media/piedra.ebafdbd9f18f446b65cf.png",
     "index.html": "/PRACTICO3/index.html",
     "main.dd22ad5f.css.map": "/PRACTICO3/static/css/main.dd22ad5f.css.map",
-    "main.8129df14.js.map": "/PRACTICO3/static/js/main.8129df14.js.map",
+    "main.54db8a50.js.map": "/PRACTICO3/static/js/main.54db8a50.js.map",
     "787.f9640105.chunk.js.map": "/PRACTICO3/static/js/787.f9640105.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd22ad5f.css",
-    "static/js/main.8129df14.js"
+    "static/js/main.54db8a50.js"
   ]
 }
