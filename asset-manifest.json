@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PRACTICO3/static/css/main.715f7bfb.css",
+    "main.css": "/PRACTICO3/static/css/main.a1ad0ae5.css",
     "main.js": "/PRACTICO3/static/js/main.be3dc0bd.js",
     "static/js/787.f9640105.chunk.js": "/PRACTICO3/static/js/787.f9640105.chunk.js",
     "static/media/game.png": "/PRACTICO3/static/media/game.a7b33d5a60e26a14ad63.png",
@@ -8,12 +8,12 @@
     "static/media/tijera.png": "/PRACTICO3/static/media/tijera.e3e14fb14ad4ebdb43f3.png",
     "static/media/piedra.png": "/PRACTICO3/static/media/piedra.ebafdbd9f18f446b65cf.png",
     "index.html": "/PRACTICO3/index.html",
-    "main.715f7bfb.css.map": "/PRACTICO3/static/css/main.715f7bfb.css.map",
+    "main.a1ad0ae5.css.map": "/PRACTICO3/static/css/main.a1ad0ae5.css.map",
     "main.be3dc0bd.js.map": "/PRACTICO3/static/js/main.be3dc0bd.js.map",
     "787.f9640105.chunk.js.map": "/PRACTICO3/static/js/787.f9640105.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.715f7bfb.css",
+    "static/css/main.a1ad0ae5.css",
     "static/js/main.be3dc0bd.js"
   ]
 }
